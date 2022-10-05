@@ -1,6 +1,6 @@
 # What?
 
-This is a library that automatically fixes the field names of a wrapped object.
+This is a library that automatically fixes the misspelled field name of a wrapped object when getting or setting an attribute.
 
 It throws an `AttributeError` if it cannot find a field with a similar name.
 
