@@ -12,6 +12,10 @@ For fun.
 
 # How?
 
+Install it from PyPI:
+
+    pip install fixed_that_for_you
+
 Use the `Fixer` class to wrap an object and the `unwrap` function to unwrap it.
 
 Example:
